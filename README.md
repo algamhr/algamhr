@@ -3,7 +3,12 @@
 -----
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=algamhr&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algamhr&layout=compact&count_private=true" alt="Alga's Top Langs" />
+</p>
+
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=algamhr&theme=radical&show_icons=true" alt="Alga's Github Stats" />
 </p>
 
 
