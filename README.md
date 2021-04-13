@@ -12,7 +12,7 @@
 
 -----
 
-I am a person who is engaged in web development. My skill in website development I got from online courses (Udemy) and learning on campus.
+👦 I'm a person who is engaged in Web Development. My skill in website development I got from online courses (like Udemy) and learning on Campus. My expertise covers the PHP Language Progamming, Javascript Language Programming (ReactJS, NodeJS, ExpressJS, MongoDB), Mysql and CMS Wordpress. Now, I studying Adobe Photoshop for my hobby. 
 
 -----
 
