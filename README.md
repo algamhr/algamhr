@@ -1,4 +1,12 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algamhr&layout=compact&count_private=true) !
-![algamhr's github stats](https://github-readme-stats.vercel.app/api?username=algamhr&show_icons=true&count_private=true)
+-----
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=algamhr&theme=radical&show_icons=true" alt="Jatin's Github Stats" />
+</p>
+
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/algamhr/count.svg" alt="Visitor Count" />
+</p>
