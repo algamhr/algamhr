@@ -12,7 +12,7 @@
 
 -----
 
-👦 I'm a person who is engaged in Web Development. My skill in website development I got from online courses (like Udemy) and learning on Campus. My expertise covers the PHP Language Progamming, Javascript Language Programming (ReactJS, NodeJS, ExpressJS, MongoDB), Mysql and CMS Wordpress. Now, I studying Adobe Photoshop for my hobby. 
+👦 I'm a person who is engaged in Android Developer. My expertise covers the Java, PHP, Mysql, Design Banner and CMS Wordpress. I like to edit photo in Photoshop for my hobby. Currently looking for the opportunity to invest knowledge as an Android Developer especially for Kotlin.
 
 -----
 
