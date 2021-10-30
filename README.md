@@ -3,7 +3,7 @@
 <a href="https://twitter.com/algamhr_SQ">
   <img align="left" alt="Alga Mahargarika's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/alga-mahargarika-63421b180/">
+<a href="https://www.linkedin.com/in/algamhr/">
   <img align="left" alt="Alga Mahargarika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/algamhr/">
